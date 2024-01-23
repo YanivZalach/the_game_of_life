@@ -1,5 +1,5 @@
 {
-  "name": "game_of_life",
+  "name": "game_of_life_random",
   "version": "1.0.0",
   "description": "Conway's Game of Life",
   "main": "index.js",
