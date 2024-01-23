@@ -61,7 +61,7 @@ npx game_of_life_random
 ## Features
 
 - 🌐 Node.js based, runs in your terminal.
-- ⏯️ Easy to use using `npx`.
+- ⏯️  Easy to use, using `npx`.
 - 🔄 Dynamic grid rendering.
 - 🎨 Customizable grid size.
 - ⏯️  The game is bing simplified using a border to the array, so we can check only the inside cells and by that doing all the checks we need(O(n**2)).
