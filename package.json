@@ -1,20 +1,20 @@
 {
-  "name": "game_of_life_random",
-  "version": "1.0.0",
-  "description": "Conway's Game of Life",
-  "main": "index.js",
-  "scripts": {
-    "start": "node ."
-  },
-  "bin": {
-    "nd1-game_of_life_random": "index.js"
-  },
-  "keywords": [
-    "game",
-    "game of life",
-    "conway",
-    "random"
-  ],
-  "author": "Yaniv Zalach",
-  "license": "MIT"
+	"name": "game_of_life_random",
+	"version": "1.0.0",
+	"description": "Conway's Game of Life",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"bin": {
+		"game_of_life_random": "index.js"
+	},
+	"keywords": [
+		"game",
+		"game of life",
+		"conway",
+		"random"
+	],
+	"author": "Yaniv Zalach",
+	"license": "MIT"
 }
