@@ -1,6 +1,3 @@
-# Conway's Game of Life
-
-
 # Conway's Game of Life Terminal App 🎮🕹️
 
 ![Game of Life](https://img.shields.io/badge/Conway's_Game_of_Life-Node_App-green) ![Node Version](https://img.shields.io/badge/Node-v14.17.4-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue)
@@ -40,7 +37,7 @@ The rules:
 
 ## Screenshots
 
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](https://github.com/YanivZalach/the_game_of_life/assets/131461377/158ae6e5-3300-4366-9b57-72fcf7937341)
 
 ## Features
 
