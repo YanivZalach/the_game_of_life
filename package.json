@@ -1,6 +1,6 @@
 {
 	"name": "game_of_life_random",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Conway's Game of Life",
 	"homepage":"https://github.com/YanivZalach",
 	"repository": {

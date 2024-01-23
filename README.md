@@ -17,7 +17,7 @@ The rules:
 
 Quit the Game using `Ctrl + C` to exit the game at any time.
 
-## Screenshots
+## Screenshot
 
 ![Gameplay](https://github.com/YanivZalach/the_game_of_life/assets/131461377/158ae6e5-3300-4366-9b57-72fcf7937341)
 
