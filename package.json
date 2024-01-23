@@ -2,13 +2,16 @@
 	"name": "game_of_life_random",
 	"version": "1.0.0",
 	"description": "Conway's Game of Life",
+	"homepage":"https://github.com/YanivZalach",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/YanivZalach/the_game_of_life"
+	},
 	"main": "index.js",
 	"scripts": {
-		"start": "node index.js"
+		"start": "node ."
 	},
-	"bin": {
-		"game_of_life_random": "index.js"
-	},
+	"bin": "./index.js",
 	"keywords": [
 		"game",
 		"game of life",
